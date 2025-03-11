@@ -1,8 +1,8 @@
 {
   "name": "rough-forest-7ee4",
-  "description": "Build a personal website, blog, or portfolio with Astro.",
+  "description": "Build a personal website, blog, or portfolio with Mukha Mo.",
   "cloudflare": {
-    "label": "Astro Framework Starter",
+    "label": "Mukha Mo Social",
     "products": [
       "Workers"
     ],
